@@ -1,0 +1,14 @@
+{
+  "name": "teamreshuffle",
+  "version": "1.0.0",
+  "description": "Self-Instructed-Week-Algo-DS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krzysztof Niznik",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
